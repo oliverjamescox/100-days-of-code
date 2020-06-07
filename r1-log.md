@@ -18,3 +18,58 @@ The journal of my #100DaysOfCode challenge. Started on **June 5th, Friday, 2020*
 **Link(s)**
 * [Tweet](https://twitter.com/oliverjamescox/status/1268882399426904065)
 * [Call Stack (Codepen)](https://codepen.io/olivercoxdesign/full/vYLEQOj)
+
+---
+
+### Day 2: June 6th, Saturday
+
+**Today's Progress**: [Types of JavaScript](https://codepen.io/olivercoxdesign/full/pogJPRx)
+
+**Thoughts**: Today I revisited JavaScript fundamentals looking at all of the various types, providing code snippets and analogies not just for my own reference but hopefully to be of use to others. I comprehend from a high level but I think I would benefit from practical examples and usecases to really compound my understanding.
+
+
+![types of javascript thumbnail](/images/types-of-javascript.png)
+
+**idea**: a codepen interactive quiz to test understanding of reference/value
+
+**note**: see trello board about finding some reference/values examples in the wild
+
+**Link(s)**
+* [JavaScript Types (Codepen)](https://codepen.io/olivercoxdesign/full/pogJPRx)
+
+---
+
+### Day 3: June 7th, Sunday
+
+**Today's Progress**: [Variables (var, let, const)](https://codepen.io/olivercoxdesign/full/QWybowY)
+
+**Thoughts**: Quick blast exploring the types of JavaScript variables with a few practical examples, brushed over aspects such as hoisting and closures to cover them later down the line. I wanted to have a crack at the codepen challenge for this week but the day has escaped me.
+
+**idea**: codepen challenge for GSAP sequences to animate the call stack as covered on Day 1
+
+![javascript variables thumbnail](/images/javascript-variables.png)
+
+**Link(s)**
+* [Variables (Codepen)](https://codepen.io/olivercoxdesign/full/QWybowY)
+
+---
+
+<!-- ### Day 4: June 8th, Monday
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s)**
+
+---
+
+### Day 5: June 7th, Tuesday
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s)**
+
+--- -->
