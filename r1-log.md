@@ -45,24 +45,25 @@ The journal of my #100DaysOfCode challenge. Started on **June 5th, Friday, 2020*
 
 **Thoughts**: Quick blast exploring the types of JavaScript variables with a few practical examples, brushed over aspects such as hoisting and closures to cover them later down the line. I wanted to have a crack at the codepen challenge for this week but the day has escaped me.
 
-**idea**: codepen challenge for GSAP sequences to animate the call stack as covered on Day 1
-
 ![javascript variables thumbnail](/images/javascript-variables.png)
 
+**idea**: codepen challenge for GSAP sequences to animate the call stack as covered on Day 1
+
 **Link(s)**
+* [Tweet](https://twitter.com/oliverjamescox/status/1269763328613797888)
 * [Variables (Codepen)](https://codepen.io/olivercoxdesign/full/QWybowY)
 
 ---
 
-<!-- ### Day 4: June 8th, Monday
+### Day 4: June 8th, Monday
 
-**Today's Progress**: 
+**Today's Progress**: [JavaScript Operators - Part 1/?](https://codepen.io/olivercoxdesign/full/LYGpydV)
 
-**Thoughts**: 
+**Thoughts**: Full and productive day at work has left me a bit drained this evening, looked into Operators, I am finding the writing aspect time consuming and eating hours of my evening just for a simple high level rundown. I have split it across ~~2~~ days to make sure I have a concise rundown and really drill down into fundamentals.
 
-**Link(s)**
+**idea** ~~I may consider adding in days of no writing to revisit topics covered and just create practical examples in codepen.~~ I am extending operators by however many days it takes and focusing on a key aspect per day. i.e destructuring, ternary operators etc.
 
----
+<!-- ---
 
 ### Day 5: June 7th, Tuesday
 
