@@ -59,18 +59,16 @@ The journal of my #100DaysOfCode challenge. Started on **June 5th, Friday, 2020*
 
 **Today's Progress**: [JavaScript Operators - Part 1/?](https://codepen.io/olivercoxdesign/full/LYGpydV)
 
-**Thoughts**: Full and productive day at work has left me a bit drained this evening, looked into Operators, I am finding the writing aspect time consuming and eating hours of my evening just for a simple high level rundown. I have split it across ~~2~~ days to make sure I have a concise rundown and really drill down into fundamentals.
+**Thoughts**: Full and productive day at work has left me a bit drained this evening, looked into Operators, I am finding the writing aspect time consuming and eating hours of my evening just for a simple high level rundown. I have split it across 2 days to make sure I have a concise rundown and really drill down into fundamentals.
 
-**idea** ~~I may consider adding in days of no writing to revisit topics covered and just create practical examples in codepen.~~ I am extending operators by however many days it takes and focusing on a key aspect per day. i.e destructuring, ternary operators etc.
+---
 
-<!-- ---
+### Day 5: June 9th, Tuesday
 
-### Day 5: June 7th, Tuesday
+**Today's Progress**: [JavaScript Operators](https://codepen.io/olivercoxdesign/full/LYGpydV)
 
-**Today's Progress**: 
+**Thoughts**: Another busy day but from tomorrow I will be back working on a Nuxt.js build with TailwindCSS for the rest of the week so looking forward to picking up where I left off. Continued with my Operators breakdown, initially spread across 2 pens but decided to instead consolidate down into 1, these initial pens feel almost like a regurgitation of official docs, I can't write it any better than the guys at MDN! still a useful discovery process. 
 
-**Thoughts**: 
+Eager to get onto areas I know I need to improve but have to respect the process and stick to the plan that I made for myself!
 
-**Link(s)**
-
---- -->
+---
