@@ -67,8 +67,16 @@ The journal of my #100DaysOfCode challenge. Started on **June 5th, Friday, 2020*
 
 **Today's Progress**: [JavaScript Operators](https://codepen.io/olivercoxdesign/full/LYGpydV)
 
-**Thoughts**: Another busy day but from tomorrow I will be back working on a Nuxt.js build with TailwindCSS for the rest of the week so looking forward to picking up where I left off. Continued with my Operators breakdown, initially spread across 2 pens but decided to instead consolidate down into 1, these initial pens feel almost like a regurgitation of official docs, I can't write it any better than the guys at MDN! still a useful discovery process. 
+**Thoughts**: Another busy day but from tomorrow I will be back working on a Nuxt.js build with TailwindCSS for the rest of the week so looking forward to picking up where I left off. Continued with my Operators breakdown, initially spread across 2 pens but decided to instead consolidate down into 1, these initial pens feel almost like a regurgitation of official docs, I can't write it any better than the guys at MDN! still a useful rediscovery process. 
 
 Eager to get onto areas I know I need to improve but have to respect the process and stick to the plan that I made for myself!
 
 ---
+
+### Day 6: June 10th, Wednesday
+
+**Today's Progress**: [== vs ===](https://codepen.io/olivercoxdesign/full/LYGGMdm)
+
+**Thoughts**: Looked at strict vs loose equality checks, providing a quick rundown of the differences with examples. On this day I advised the use of === on all occasions, does my future self think different? 
+
+With the release of the headless cms strapi's community edition I am going to spend the rest of the evening setting up a project.
