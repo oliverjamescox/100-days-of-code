@@ -80,3 +80,11 @@ Eager to get onto areas I know I need to improve but have to respect the process
 **Thoughts**: Looked at strict vs loose equality checks, providing a quick rundown of the differences with examples. On this day I advised the use of === on all occasions, does my future self think different? 
 
 With the release of the headless cms strapi's community edition I am going to spend the rest of the evening setting up a project.
+
+---
+
+### Day 7: June 11th, Thursday
+
+**Today's Progress**: Reading & Codecademy Go app practice
+
+**Thoughts**: Started reading the first book 'Get Started' of the second edition 'You Don't Know JS'. Going forward I am going to break the week up with a bit of reading along with the codepen concepts. Finding the Codecademy Go app really good for practice, presenting a overview of a concept followed up by a small test. I spent a bit of time on my strapi headless cms with a nuxt.js frontend but struggling with the routing to build out the blog content with the routing required.
