@@ -98,3 +98,12 @@ With the release of the headless cms strapi's community edition I am going to sp
 **Thoughts**: Day away from a laptop and instead dedicated my time to reading, I have finished reading the first book in the 2nd editions of YDKJS, I didn't realise all the books weren't out yet, I may consider reading all of the 1st editions through and then approaching the 2nd editions when they are released. The book goes really into detail with my first pass through leaving some aspects confusing but something I will make a point of re-reading. Although I can follow the code and understand the steps I am struggling to see demonstratable use cases for such code (at the moment anyway) to really give me those lightbulb moments.
 
 ---
+
+### Day 9: June 13th, Saturday
+
+**Today's Progress**: Strings concatenation & coercion (Codepen) and continued reading
+
+**Thoughts**: Started reading [javascript.info](https://javascript.info) and going to do codepens on core topics, today exploring string concatenation.
+
+**Link(s)**
+* [Strings concatenation & coercion (Codepen)](https://codepen.io/olivercoxdesign/full/dyGXpOR)
