@@ -88,3 +88,13 @@ With the release of the headless cms strapi's community edition I am going to sp
 **Today's Progress**: Reading & Codecademy Go app practice
 
 **Thoughts**: Started reading the first book 'Get Started' of the second edition 'You Don't Know JS'. Going forward I am going to break the week up with a bit of reading along with the codepen concepts. Finding the Codecademy Go app really good for practice, presenting a overview of a concept followed up by a small test. I spent a bit of time on my strapi headless cms with a nuxt.js frontend but struggling with the routing to build out the blog content with the routing required.
+
+---
+
+### Day 8: June 12th, Friday
+
+**Today's Progress**: Finished reading YDKJS: Get Started (2nd edition)
+
+**Thoughts**: Day away from a laptop and instead dedicated my time to reading, I have finished reading the first book in the 2nd editions of YDKJS, I didn't realise all the books weren't out yet, I may consider reading all of the 1st editions through and then approaching the 2nd editions when they are released. The book goes really into detail with my first pass through leaving some aspects confusing but something I will make a point of re-reading. Although I can follow the code and understand the steps I am struggling to see demonstratable use cases for such code (at the moment anyway) to really give me those lightbulb moments.
+
+---
