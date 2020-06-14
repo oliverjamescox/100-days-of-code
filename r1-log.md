@@ -107,3 +107,11 @@ With the release of the headless cms strapi's community edition I am going to sp
 
 **Link(s)**
 * [Strings concatenation & coercion (Codepen)](https://codepen.io/olivercoxdesign/full/dyGXpOR)
+
+---
+
+### Day 10: June 14th, Sunday
+
+**Today's Progress**: Codecademy Go practice & reading
+
+**Thoughts**: Really enjoying Codecademy Go app, shame it doesn't track progress, at least I can focus on key areas. Unusual lightbulb moment with vanilla javascript, assigning what a function returns to a variable. Revisiting fundamentals I have been trying to go into greater detail asking why. Continued reading through [javascript.info](https://javascript.info) finishing up the fundamentals section.
