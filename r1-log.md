@@ -126,7 +126,7 @@ With the release of the headless cms strapi's community edition I am going to sp
 
 ### Day 12: June 16th, Tuesday
 
-**Today's Progress**: Finished Reading the [javascript.info](https://javascript.info) fundamentals section and started reading the code quality section
+**Today's Progress**: Finished Reading the [javascript.info](https://javascript.info) fundamentals section and started reading the code quality section, touched on mocha but little interest in this at the moment.
 
 ---
 
