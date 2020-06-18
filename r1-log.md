@@ -120,7 +120,7 @@ With the release of the headless cms strapi's community edition I am going to sp
 
 ### Day 11: June 15th, Monday
 
-**Today's Progress**: Codecademy Go practice
+**Today's Progress**: Codecademy Go practice, there are a couple of gotchas in there!
 
 ---
 
