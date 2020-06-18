@@ -115,3 +115,23 @@ With the release of the headless cms strapi's community edition I am going to sp
 **Today's Progress**: Codecademy Go practice & reading
 
 **Thoughts**: Really enjoying Codecademy Go app, shame it doesn't track progress, at least I can focus on key areas. Unusual lightbulb moment with vanilla javascript, assigning what a function returns to a variable. Revisiting fundamentals I have been trying to go into greater detail asking why. Continued reading through [javascript.info](https://javascript.info) finishing up the fundamentals section.
+
+---
+
+### Day 11: June 15th, Monday
+
+**Today's Progress**: Codecademy Go practice
+
+---
+
+### Day 12: June 16th, Tuesday
+
+**Today's Progress**: Finished Reading the [javascript.info](https://javascript.info) fundamentals section and started reading the code quality section
+
+---
+
+### Day 13: June 17th, Wedneday
+
+**Today's Progress**: Finished up code quality section and dove into the next, objects! always reached for dot notation but saw the merits of bracket notation and keen to try them out. Codecademy Go practice as usual, is a daily staple of mine. Really enjoying the app.
+
+---
