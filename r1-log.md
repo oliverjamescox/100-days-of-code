@@ -135,3 +135,9 @@ With the release of the headless cms strapi's community edition I am going to sp
 **Today's Progress**: Finished up code quality section and dove into the next, objects! always reached for dot notation but saw the merits of bracket notation and keen to try them out. Codecademy Go practice as usual, is a daily staple of mine. Really enjoying the app.
 
 ---
+
+### Day 14: June 18th, Thursday
+
+**Today's Progress**: Actually sat and wrote some javascript to play around with objects and work on the tasks at the end of the first objects section. Actually forgot to do my Codecademy Practice and broke my streak!
+
+---
