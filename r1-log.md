@@ -130,7 +130,7 @@ With the release of the headless cms strapi's community edition I am going to sp
 
 ---
 
-### Day 13: June 17th, Wedneday
+### Day 13: June 17th, Wednesday
 
 **Today's Progress**: Finished up code quality section and dove into the next, objects! always reached for dot notation but saw the merits of bracket notation and keen to try them out. Codecademy Go practice as usual, is a daily staple of mine. Really enjoying the app.
 
@@ -141,3 +141,7 @@ With the release of the headless cms strapi's community edition I am going to sp
 **Today's Progress**: Actually sat and wrote some javascript to play around with objects and work on the tasks at the end of the first objects section. Actually forgot to do my Codecademy Practice and broke my streak!
 
 ---
+
+### Day 15: June 19th, Friday
+
+**Today's Progress**: Finished off the objects tasks and went back over the previously read sections tasks and started working through those. Current progress upto "2.11 - Logical Operators". Numeric conversions are strange.. for example null becomes 0, undefined becomes NaN and an empty string i.e "" becomes 0.
