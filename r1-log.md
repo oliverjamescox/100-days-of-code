@@ -145,3 +145,11 @@ With the release of the headless cms strapi's community edition I am going to sp
 ### Day 15: June 19th, Friday
 
 **Today's Progress**: Finished off the objects tasks and went back over the previously read sections tasks and started working through those. Current progress upto "2.11 - Logical Operators". Numeric conversions are strange.. for example null becomes 0, undefined becomes NaN and an empty string i.e "" becomes 0.
+
+---
+
+### Day 16: June 20th, Saturday
+
+**Today's Progress**: Continued reading about Objects, specifically how garbage collection works and objects as reference types which I had previously explored when looking into javascript types
+
+---
