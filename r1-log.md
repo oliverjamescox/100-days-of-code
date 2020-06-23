@@ -153,3 +153,7 @@ With the release of the headless cms strapi's community edition I am going to sp
 **Today's Progress**: Continued reading about Objects, specifically how garbage collection works and objects as reference types which I had previously explored when looking into javascript types
 
 ---
+
+### Day 17: June 21st, Sunday
+
+**Today's Progress**: More JavaScript reading about Objects, reading through object methods and constructors
