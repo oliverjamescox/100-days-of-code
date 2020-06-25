@@ -163,3 +163,9 @@ With the release of the headless cms strapi's community edition I am going to sp
 ### Day 18: June 22nd, Monday
 
 **Today's Progress**: JavaScript reading, objects optional chaining
+
+---
+
+### Day 19: June 23rd, Tuesday
+
+**Today's Progress**: Carried on from Day 15 working through the backlog of javascript.info tasks of read sections
