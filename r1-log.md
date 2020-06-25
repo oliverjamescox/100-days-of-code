@@ -169,3 +169,9 @@ With the release of the headless cms strapi's community edition I am going to sp
 ### Day 19: June 23rd, Tuesday
 
 **Today's Progress**: Carried on from Day 15 working through the backlog of javascript.info tasks of read sections
+
+---
+
+### Day 20: June 24th, Wednesday
+
+**Today's Progress**: Codecademy Go practice and watched Colt Steeles youtube video about the spread operator
