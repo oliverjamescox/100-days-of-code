@@ -186,4 +186,10 @@ With the release of the headless cms strapi's community edition I am going to sp
 
 ### Day 22: June 26th, Friday
 
-**Today's Progress**: Continued reading through javascript info, finishing off the objects section
+**Today's Progress**: Continued reading through javascript.info, finishing off the objects section
+
+---
+
+### Day 23: June 27th, Saturday
+
+**Today's Progress**: Started reading the data types section, reading through methods of primitives, numbers and strings
