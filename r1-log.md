@@ -181,3 +181,9 @@ With the release of the headless cms strapi's community edition I am going to sp
 ### Day 21: June 25th, Thursday
 
 **Today's Progress**: Worked through javascript.info tasks again, currently upto 2.15 Functions
+
+---
+
+### Day 22: June 26th, Friday
+
+**Today's Progress**: Continued reading through javascript info, finishing off the objects section
