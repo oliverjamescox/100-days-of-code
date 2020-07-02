@@ -211,3 +211,7 @@ With the release of the headless cms strapi's community edition I am going to sp
 ### Day 26: June 30th, Tuesday
 
 **Today's Progress**: Got a bit of CPD time at work so finished off thenetninja's vue.js tutorial series, the remaining episodes covered custom directives, filters and implementing a title search function. In the evening I also managed to put the codecademy 'Learn Asynchronous JavaScript' course to bed, trying to make the most of the pro subscription while I have it.
+
+### Day 27: July 1st, Wednesday
+
+**Today's Progress**: Watched a couple of youtube videos (Fireship's async/await) to add to the codecademy course, still on my list to find a usecase for all and implement. Colt Steele's 'Learn GIT in 15 minutes' popped up in recommended so ended up watching that too! was pretty comfortable with everything covered but he has such great material. Spent a bit of time in the evening on project work implementing imgkit.io to serve responsive images from the s3 bucket. Got everything set up and can serve images, the vue component will be a continued work in progress with only a basic feature set for the time being.
