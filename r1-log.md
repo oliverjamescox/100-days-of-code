@@ -198,4 +198,10 @@ With the release of the headless cms strapi's community edition I am going to sp
 
 ### Day 24: June 28th, Sunday
 
-**Today's Progress**: **PROJECT STARTED** I started work on a new repo, finalising the devops aspects I can begin to work on the front-end. Working with nuxt.js to offer pwa functionality right out of the box. Working on the project setup such as implementing purgecss, google analytics, scss handling etc. Turning in but will be reading more of javascript.info tonight
+**Today's Progress**: **PROJECT STARTED** I started work on a new repo, finalising the devops aspects I can begin to work on the front-end. Working with nuxt.js to offer pwa functionality right out of the box. Working on the project setup such as implementing purgecss, google analytics, scss handling etc.
+
+---
+
+### Day 25: June 29th, Monday
+
+**Today's Progress**: Did a bunch of config setup for the project with globals and additions to the config.
