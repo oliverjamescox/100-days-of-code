@@ -205,3 +205,9 @@ With the release of the headless cms strapi's community edition I am going to sp
 ### Day 25: June 29th, Monday
 
 **Today's Progress**: Did a bunch of config setup for the project with globals and additions to the config.
+
+---
+
+### Day 26: June 30th, Tuesday
+
+**Today's Progress**: Got a bit of CPD time at work so finished off thenetninja's vue.js tutorial series, the remaining episodes covered custom directives, filters and implementing a title search function. In the evening I also managed to put the codecademy 'Learn Asynchronous JavaScript' course to bed, trying to make the most of the pro subscription while I have it.
