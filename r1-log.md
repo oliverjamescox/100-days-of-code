@@ -223,3 +223,9 @@ With the release of the headless cms strapi's community edition I am going to sp
 ### Day 28: July 2nd, Thursday
 
 **Today's Progress**: Actually started work on the front-end of the project, goal is homepage / blog overview & blog post before sending staging link to client. Working with TailwindCSS is always nice!
+
+---
+
+### Day 29: July 3rd, Friday
+
+**Today's Progress**: Picking up from where I left it yesterday I sorted the accordion for the blog overview, breaking it out to be a re-usable component. I ended up creating two variations; 1) allows multiple tabs to be expanded at any one time 2) only a single tab can be expanded at any one time, if one is already open that's collapsed in favour of the target. Implemented the working accordion onto the project and sorted the mobile styles.
