@@ -237,3 +237,12 @@ With the release of the headless cms strapi's community edition I am going to sp
 **Today's Progress**: Read more of javascript.info covering Arrays and Array Methods, falling a bit behind with doing the tasks for the content just read. While I still have a pro subscription with Codecademy I intend to work through as many courses as possible, today I finished 'How to debug javascript errors'. I also sat down and watched the first in the series of Harvards CS50 course from 2019 'Computational Thinking, Scratch' I wish my lecturers were that enthusiastic! keen to continue the series.
 
 **Thoughts**: I feel my computational and logical problem solving isn't quite there, with a background in design I am very much a visual problem solver which helps greatly working with front-end, however my current place of employment at times I am given tasks which take me out of my comfort zone. It is my short term goal along with improving JavaScript to get better at logical problem solving and being able to take a bit of functionality and be able to navigate from brief to inception. I hope the CS50 course can provide some lightbulb moments as I hear it mentioned all the time, the general consensus is to take a problem a break it down into smaller pieces, currently that feels like its easier said than done so looking to practice and bring that to my day to day bookings.
+
+---
+
+### Day 31: July 5th, Sunday
+
+**Today's Progress**: Codecademy pro courses completed: 'Learn Vue.js' and 'Learn Node.js'. I've written out a list of the courses I would like to work through, my intention isn't to then claim I know said course, but just get a taster and to give me a good understanding and starting knowledge of something such as Express.js.
+
+**Thoughts:** I do enjoy codecademy, after all its the site I used at the very beginning of my journey, just at times the stepping through with "now add this, now add that" aspects don't always seem to click and answer the questions of why. I find youtube series personally for me much more beneficial, allowing me to branch away from the deliverables ever so slightly by adding in my own data, altering the structure slightly or chucking in console.log's so I can see it working rather than getting a green tick.
+
