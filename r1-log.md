@@ -229,3 +229,11 @@ With the release of the headless cms strapi's community edition I am going to sp
 ### Day 29: July 3rd, Friday
 
 **Today's Progress**: Picking up from where I left it yesterday I sorted the accordion for the blog overview, breaking it out to be a re-usable component. I ended up creating two variations; 1) allows multiple tabs to be expanded at any one time 2) only a single tab can be expanded at any one time, if one is already open that's collapsed in favour of the target. Implemented the working accordion onto the project and sorted the mobile styles.
+
+---
+
+### Day 30: July 4th, Saturday
+
+**Today's Progress**: Read more of javascript.info covering Arrays and Array Methods, falling a bit behind with doing the tasks for the content just read. While I still have a pro subscription with Codecademy I intend to work through as many courses as possible, today I finished 'How to debug javascript errors'. I also sat down and watched the first in the series of Harvards CS50 course from 2019 'Computational Thinking, Scratch' I wish my lecturers were that enthusiastic! keen to continue the series.
+
+**Thoughts**: I feel my computational and logical problem solving isn't quite there, with a background in design I am very much a visual problem solver which helps greatly working with front-end, however my current place of employment at times I am given tasks which take me out of my comfort zone. It is my short term goal along with improving JavaScript to get better at logical problem solving and being able to take a bit of functionality and be able to navigate from brief to inception. I hope the CS50 course can provide some lightbulb moments as I hear it mentioned all the time, the general consensus is to take a problem a break it down into smaller pieces, currently that feels like its easier said than done so looking to practice and bring that to my day to day bookings.
