@@ -1,15 +1,20 @@
 # #100DaysOfCode Challenges
 
+<!--
 ![GitHub commits since tagged version](https://img.shields.io/github/commits-since/oliverjamescox/100-days-of-code/r1.0?label=days%20complete&style=flat-square) ![Relative date](https://img.shields.io/date/1599868800?label=challenge%20ends&style=flat-square)
+-->
 
+<!--
 ![GitHub last commit](https://img.shields.io/github/last-commit/oliverjamescox/100-days-of-code?style=flat-square)
+-->
 
-## [View Current Progress](r1-log.md)
+<!-- 
+## [Round 1 Progress](r1-log.md)
+-->
 
 ### Current Challenge Goals
 
-* Beginner Level Topics (Syntax, Variables, Data Types etc)
-* Intermediate Level Topics (Functions, Classes etc)
+* No challenge in progress
 
 ### Projects
 
@@ -17,9 +22,9 @@
 
 ## Challenges
 
-| Name | Goals | Start | Status |
-| --- | --- | --- | --- |
-| Round 1 | Vanilla JavaScript Fundamentals | 5th June, 2020 | In progress |
+| Name | Goals | Start | Status | Log |
+| --- | --- | --- | --- | --- |
+| Round 1 | Vanilla JavaScript Fundamentals | 5th June, 2020 | Failed | [Log](r1-log.md)
 
 ## Contents
 
